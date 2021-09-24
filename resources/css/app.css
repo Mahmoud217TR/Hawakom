@@ -1,0 +1,40 @@
+a:active {
+    color: #5fb759!important;
+}
+
+.card {
+    border-radius: 20px!important;
+    background-color: rgba(255, 255, 255, 0.5)!important;
+}
+
+.card-header {
+  border-radius:20px 20px 0px 0px!important;
+  background-color: rgba(255, 255, 255, 0.5)!important;
+  font-size: 23px;
+}
+
+.card-body {
+  border-radius:0px 0px 20px 20px!important;
+  background-color: rgba(255, 255, 255, 0.5)!important;
+}
+
+.btn-primary {
+  background-color: #5fb759!important;
+  border-color: #5fb759!important;
+}
+
+.btn-link{
+  color: #5fb759!important;
+}
+.btn-link:active {
+  color: #2ecc71!important;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  filter: invert(100%);
+}
+
+body{
+  font-family: 'Raleway', sans-serif!important;
+}
